@@ -2,9 +2,8 @@
   "name": "chai-testing-practice",
   "version": "1.0.0",
   "description": "Chai Testing Practice",
-  "main": "test.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha --recursive specs/**/*.spec.js"
   },
   "repository": {
     "type": "git",
