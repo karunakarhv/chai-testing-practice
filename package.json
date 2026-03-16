@@ -1,0 +1,23 @@
+{
+  "name": "chai-testing-practice",
+  "version": "1.0.0",
+  "description": "Chai Testing Practice",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karunakarhv/chai-testing-practice.git"
+  },
+  "author": "Karunakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karunakarhv/chai-testing-practice/issues"
+  },
+  "homepage": "https://github.com/karunakarhv/chai-testing-practice#readme",
+  "dependencies": {
+    "mocha": "^11.7.5",
+    "chai": "^6.2.2"
+  }
+}
